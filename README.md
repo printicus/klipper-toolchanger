@@ -1,5 +1,8 @@
 # klipper-toolchanger
 
+This is a fork from viesturz of his Klipper-Toolchanger plugin. https://github.com/viesturz/klipper-toolchanger
+For now it is what I use in my setup. Text that comes next is what viesturz wrote(with some of my modification):
+
 An assortment of Klipper extensions that I have made while working on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 # Installation
